@@ -2,7 +2,7 @@
 ✨All Major Operating Systems
 
 Installation script:
-`bash <(curl -sSL https://raw.githubusercontent.com/neroxkira/tokenautoinstall/main/install.sh)`
+`bash <(curl -sSL https://raw.githubusercontent.com/Fayzaaup/tokenautoinstall/main/install.sh)`
 
 # custom hosting pages
 
